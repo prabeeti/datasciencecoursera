@@ -1,2 +1,2 @@
-# prabeeti_data_science_repo
+#DataScienceCoursera
 Data Science Projects
