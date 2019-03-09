@@ -1,2 +1,0 @@
-#DataScienceCoursera
-Data Science Projects
